@@ -1,0 +1,607 @@
+ @media only screen and (max-width: 1200px) {
+
+  .video {
+    margin: 33px auto;
+  
+  }
+  .container .content-text {
+    padding-right: 40px;
+  }
+
+  .padright-div {
+    padding-right: 40px;
+  }
+
+  .title-header {
+    margin-top: 35px;
+    padding-top: 45px;
+  }
+
+  .titleh {
+    color: rgb(6, 21, 119);
+    font-weight: 700;
+    line-height: 56px;
+    font-size: 38.5px;
+    text-align: right;
+  }
+
+  .section-six {
+    padding-right: 60px;
+    padding-left: 43px;
+  }
+
+  .content-text p,
+  .content-text .resume-text {
+    font-size: 19.5px;
+  }
+
+  .content-text .down-app {
+    padding: 27px 27px;
+    font-size: 21px;
+    line-height: 0px;
+    height: 40px;
+  }
+
+  .item p {
+    font-size: 14.4px;
+  
+  }
+  
+
+  .icon-translator {
+    height: 75px;
+    width:75px;
+    margin:0 auto;
+  
+    /* border:1px solid red; */
+  }
+
+  .Galaxy {
+    height: 455px;
+    padding-top:28px;
+    padding-bottom: 28px;
+
+  }
+
+
+}
+
+@media only screen and (max-width: 991px) {
+  .Header h1,
+  .content-text p,
+  .content-text .resume-text,
+  .container .content-text {
+    text-align: center;
+  }
+  .Header .container {
+    padding-top: 0px;
+  }
+
+  .titleh {
+    line-height: 64px;
+    font-size: 40px;
+  }
+
+  .section-two .whyinst {
+    font-size: 36px;
+  }
+
+  .container .content-text {
+    margin-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .sectionthree .introduce {
+    padding-right: 90px;
+    padding-left: 90px;
+    text-align: center;
+  }
+  .sectionthree p {
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+  }
+
+  .icon-translator {
+    height: 90px;
+    width:90px;
+  
+  }
+
+  .Galaxy {
+    height: 470px;
+    /* height: 490px; */
+    margin: 15px auto;
+  }
+
+  .item p,
+  .tarjomeani p {
+    font-size: 15.5px;
+    line-height: 25px;
+    text-align: center;
+  
+  }
+
+   .sectionfourdetail .sectionfour-detail1:nth-child(1) {
+       padding-top: 30px;
+    
+    }
+   
+
+  
+  
+
+  .sectionfour-detail2 {
+    margin-top: -5px;
+  }
+
+  
+
+  .support-icon a {
+    width: 43px;
+    height: 43px;
+    text-decoration: none;
+  }
+
+  .support-icon a:nth-child(2) {
+    width: 46px;
+    height: 39px;
+  }
+  .playicon .video {
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+
+  .content-text .down-app2 {
+    font-size: 21px;
+  }
+
+  .sectionfive p {
+    
+    font-size: 16.5px;
+    line-height: 24px;
+   
+  }
+  .content-text .down-app2 {
+    margin-top:67px;
+    
+  }
+
+  .sectionfive .padright-div h2{
+
+    font-size:36px;
+  }
+
+
+}
+
+@media only screen and (max-width: 768px) {
+  .section-two .whyinst {
+    color: white;
+    font-weight: 600;
+    font-size: 34px;
+  }
+
+
+  .title-header{
+    margin-top:0px;
+  }
+
+  .app p,
+  .support-app p {
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 16.5px;
+    margin: 20px auto;
+  }
+
+  .sectionthree .introduce {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38px;
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+
+  .sectionthree p {
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .section-six p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+
+  
+  .logofooter {
+    width: 58px;
+    height: 58px;
+  }
+
+  .last-section p {
+    font-size: 15px;
+  }
+
+  .content-text .down-app2 {
+    margin-top:20px;
+    
+  }
+
+  .sectionfive .padright-div h2{
+
+    font-size:34px;
+  }
+
+  .playicon .video {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .Galaxy {
+    height: 470px;
+    /* height: 490px; */
+    margin: 15px auto;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+
+  .titleh {
+    line-height: 49.6px;
+    font-size: 31px;
+  }
+
+  .content-text p,
+  .content-text .resume-text {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25.6px;
+  }
+
+  
+.content-text .down-app {
+  
+  padding: 25px 28px;
+  font-size: 19px;
+}
+
+.backimg {
+ 
+  padding:45px;
+}
+
+  .Header .container{
+     padding-top:0px;
+    padding-bottom: 0px;
+   
+  }
+
+  .section-two .whyinst {
+    font-size:26px;
+  }
+
+  .app p,
+.support-app p {
+
+  color: white;
+  font-size: 15px;
+}
+
+  .section-two p{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+
+  .logofooter {
+    width: 55px;
+    height: 55px;
+  }
+
+  .last-section p {
+    font-size: 13px;
+  }
+
+  .sectionthree .introduce {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .sectionfourdetail .sectionfour-detail1 {
+    padding-top: 25px;
+  
+  }
+
+
+
+  .sectionthree p {
+    font-size: 15.5px;
+    font-weight: 600;
+    line-height: 24.8px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .section-six p {
+    font-size: 15.5px;
+    line-height: 24.8px;
+  }
+
+  .sectionfive .padright-div h2{
+      font-size: 30px;
+    }
+
+    .sectionfour-detail1 ~ .sectionfour-detail1{
+      
+      margin-top: -40px;
+    }
+  
+    .Galaxy {
+      height: 470px;
+      /* height: 490px; */
+      margin: 25px auto;
+    }
+  
+}
+
+@media only screen and (max-width: 400px) {
+
+  .titleh {
+    line-height: 41.5px;
+    font-size: 26px;
+  }
+
+  .content-text p,
+  .content-text .resume-text {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 24px;
+  }
+  
+
+
+.backimg {
+ 
+  padding:0px;
+  margin-bottom:30px;
+}
+
+  .Header .container{
+     padding-top:0px;
+    padding-bottom: 0px;
+
+   
+  }
+
+  .section-two .whyinst {
+    font-size:24px;
+  }
+
+  .app p,
+.support-app p {
+
+  color: white;
+  font-size: 15px;
+}
+
+  .section-two p{
+    padding-left: 15px;
+    padding-right: 15px;
+   
+  }
+
+
+  .logofooter {
+    width: 55px;
+    height: 55px;
+  }
+
+  .last-section p {
+    font-size: 13px;
+  }
+
+  .sectionthree .padright-div {
+    padding-right:5px;
+    padding-left: 5px;
+  }
+
+  .sectionthree .introduce {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 35px;
+    padding-right: 10px;
+    padding-left: 10px;
+    
+  }
+
+  .playicon .video {
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+
+  .sectionfourdetail .sectionfour-detail1 {
+    padding-top: 25px;
+  }
+
+  .tarjomeani p{
+    padding-bottom: 15px;
+  }
+
+
+  .sectionthree p {
+    font-size: 15.5px;
+    font-weight: 600;
+    line-height: 24.8px;
+    padding-left: 12px;
+    padding-right: 12px;
+  
+  }
+
+  .section-six p {
+    font-size: 15.5px;
+    line-height: 24.8px;
+  }
+
+  .sectionfive .padright-div h2{
+      font-size: 25px;
+    }
+
+    .Galaxy {
+      height: 375px;
+   
+    }
+
+    .item p,
+    .tarjomeani p {
+      font-size:14.2px;
+    }
+
+    
+  
+  
+}
+
+@media only screen and (max-width: 500px) {
+
+.Galaxy {
+  height: 390px;
+
+}
+
+@media only screen and (max-width: 440px) {
+
+  .Galaxy {
+    display: none;
+  
+  }
+
+@media only screen and (max-width: 320px) {
+  .titleh {
+    line-height: 41.5px;
+    font-size: 26px;
+  }
+
+  .content-text p,
+  .content-text .resume-text {
+    font-size: 15px;
+    font-weight: 600;
+  }
+
+  .backimg {
+    padding:0px;
+  }
+
+  .content-text .down-app {
+    padding: 24px 26px;
+    font-size: 18px;
+  }
+
+  .section-two .whyinst {
+    font-size: 24px;
+  }
+
+  .app p,
+  .support-app p {
+    font-size: 15px;
+   
+  }
+
+  .sectionthree .introduce {
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 33px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .padright-div {
+    padding-right:8px;
+  }
+
+  .sectionfive .padright-div h2{
+  
+    font-weight: 600;
+    font-size:26px;
+    text-align: center;
+  }
+
+  .sectionfourdetail .sectionfour-detail1 {
+    padding-top: 10px;
+  }
+  
+  .sectionfive  p{
+    text-align: center;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+
+  .playicon .video {
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+
+  .sectionthree p {
+    font-size: 14.4px;
+    font-weight: 600;
+    line-height: 23px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .video {
+    height: 130px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+
+  .logofooter {
+    width: 48px;
+    height: 48px;
+  }
+
+  .last-section p {
+    font-size: 12px;
+  }
+
+  .support-icon a {
+    width: 35px;
+    height: 35px;
+  }
+
+  .support-icon a:nth-child(2) {
+    width: 39;
+    height: 34px;
+  }
+
+  .section-six {
+    padding-right:12px;
+    padding-left: 0px;
+    margin-bottom:65px;
+  }
+
+  .section-six p{
+    text-align: center;
+  }
+
+  
+
+  .sectionfour-container{
+    padding-top: 30px;
+  }
+
+  .icon-translator {
+    height: 70px;
+    width:70px;
+  
+  
+    /* border:1px solid red; */
+  }
+}
